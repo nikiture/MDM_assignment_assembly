@@ -4,11 +4,15 @@
 I seguenti vincoli di posizione non possono essere soddisfatti:
 
 
-1) Impossibile chiudere il loop cinematico seguente: body1 - body2 - body4 -
-body1.
+1) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
+Connection_34 nel modello LEGO_ASSEMBLY.
 
 
-2) Impossibile chiudere il loop cinematico seguente: body1 - body3 - body4 -
-body1.
+2) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
+Connection_3 nel modello ASSEMBLY_INSTRUCTIONS_37_40 (component id path [283]).
+
+
+3) Impossibile chiudere il loop cinematico seguente: body8 - body21 - body3 -
+body20 - body19 - body8.
 
 
