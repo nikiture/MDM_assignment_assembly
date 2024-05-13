@@ -5,14 +5,38 @@ I seguenti vincoli di posizione non possono essere soddisfatti:
 
 
 1) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
-Connection_34 nel modello LEGO_ASSEMBLY.
+Connection_8 nel modello LEGO_ASSEMBLY.
 
 
 2) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
+Connection_9 nel modello LEGO_ASSEMBLY.
+
+
+3) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
+Connection_37 nel modello ASSEMBLY_9_12 (component id path [100]).
+
+
+4) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
+Connection_34 nel modello LEGO_ASSEMBLY.
+
+
+5) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
+Connection_4 nel modello ASSEMBLY_INSTRUCTION_28 (component id path [210]).
+
+
+6) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
+Connection_1 nel modello ASSEMBLY_INSTRUCTIONS_37_40 (component id path [283]).
+
+
+7) Impossibile soddisfare Vincolo di primo asse di rotazione della connessione
 Connection_3 nel modello ASSEMBLY_INSTRUCTIONS_37_40 (component id path [283]).
 
 
-3) Impossibile chiudere il loop cinematico seguente: body9 - body23 - body4 -
-body22 - body21 - body9.
+8) Impossibile chiudere il loop cinematico seguente: body7 - body8 - body13 -
+body9 - body7.
+
+
+9) Impossibile chiudere il loop cinematico seguente: body7 - body8 - body4 -
+body16 - body3 - body7.
 
 
