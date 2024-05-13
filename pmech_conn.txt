@@ -12,7 +12,7 @@ Connection_34 nel modello LEGO_ASSEMBLY.
 Connection_3 nel modello ASSEMBLY_INSTRUCTIONS_37_40 (component id path [283]).
 
 
-3) Impossibile chiudere il loop cinematico seguente: body9 - body22 - body3 -
-body21 - body20 - body9.
+3) Impossibile chiudere il loop cinematico seguente: body8 - body22 - body4 -
+body21 - body20 - body8.
 
 
